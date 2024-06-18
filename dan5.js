@@ -140,7 +140,7 @@ const createChatInterface = () => {
 
   // Create iframe
   const iframe = document.createElement('iframe');
-  iframe.src = 'https://articulateusercontent.com/review/items/UAj3G40OZyUr3uLk/story.html';
+  iframe.src = 'https://articulateusercontent.com/review/items/W70iBQaxC9fYM-Zw/story.html';
   iframe.style.cssText = `
     width: 100%;
     height: calc(100% - 50px);
